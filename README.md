@@ -1,2 +1,3 @@
 # hello-world
-start-guide reposytory
+start-guide repository
+It's my new repository, i still learning 'bout it.
